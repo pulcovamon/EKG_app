@@ -1,0 +1,6 @@
+Příjmení: Tomešová
+Jméno: Aneta
+Datum narození: 15-May-1998
+Průměrná tepová frekvence: 70.588235/min, Tepová frekvence v normě
+Analýza srdečního rytmu: Nepravidelný srdeční rytmus!
+Analýza R kmitu: Nepravidelná výška R kmitů!, Amplituda R kmitu v normě
