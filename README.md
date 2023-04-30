@@ -1,4 +1,4 @@
-# EKG_app
+# EKG app
 EKG analysis app made as small school project focussed on MATLAB app designer. <br>
 I made this two years ago. <br>
 <pre>
